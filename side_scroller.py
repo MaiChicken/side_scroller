@@ -13,7 +13,7 @@ background_x2 = screen_width
 background = pygame.image.load("images\\background.png")
 character = [pygame.image.load("images\\chickR%s.png" % frame) for frame in range(1, 6)]
 character_slide = [pygame.image.load("images\\chick_slide%s.png"%frame) for frame in range (1,8)]
-
+#try try git hub
 
 #loading music
 '''
